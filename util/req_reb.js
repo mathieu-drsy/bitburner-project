@@ -67,5 +67,5 @@ function unlockOther(ns){
     if(!ns.hasTorRouter()){
         return;
     }
-    //probably singularity there but not yet
+    //to implement
 }
