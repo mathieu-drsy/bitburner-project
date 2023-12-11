@@ -1,3 +1,5 @@
+//rename file to liste to implement
+//add any webm, mp4, mp3, jpg, gif, png or youtube link to the list and use second term to shape the width
 const success = [
 	["https://cdn.discordapp.com/attachments/724408703687721025/1041380541645205605/yeah_Bounce.webm"],
 
