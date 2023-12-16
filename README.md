@@ -1,16 +1,16 @@
-# Projet Bitburner
+# Bitburner Project
 
-Ce projet vise à automatiser toutes les tâches à travers du code.
+This project aims to automate all tasks through code.
 
-**Attention :** Le code est avancé et contient des spoilers, veuillez en informer tous les utilisateurs potentiels.
+**Attention:** The code is advanced and contains spoilers; please inform all potential users.
 
-## Avertissement
+## Disclaimer
 
-Je ne mettrai pas à jour régulièrement ce projet, mais je continuerai à travailler dessus.
+I will not regularly update this project, but I will continue to work on it.
 
-## Fonctionnalités
+## Features
 
-- Automatisation complète des tâches
-- Ajout de fonctionnalités pour améliorer la qualité de vie
+- Complete task automation
+- Addition of features to enhance quality of life
 
-N'hésitez pas à contribuer ou à signaler des problèmes. Merci !
+Feel free to contribute or report issues. Thank you!
