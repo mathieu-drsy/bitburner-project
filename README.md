@@ -12,5 +12,6 @@ I will not regularly update this project, but I will continue to work on it.
 
 - Complete task automation
 - Addition of features to enhance quality of life
+- Writting the code in a cleaner way
 
 Feel free to contribute or report issues. Thank you!
