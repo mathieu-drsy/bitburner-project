@@ -8,7 +8,7 @@ This project aims to automate all tasks through code.
 
 I will not regularly update this project, but I will continue to work on it.
 
-## Features
+## To do
 
 - Complete task automation
 - Addition of features to enhance quality of life
