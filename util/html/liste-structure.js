@@ -21,18 +21,22 @@ const test =[
 	
 ];
 /** @param {NS} ns */
-export function getType(type) {
-	switch(type){
-		case "success": 
-			return success[Math.floor(Math.random() * success.length)];
-		case "wait":
-			return wait[Math.floor(Math.random() * wait.length)];
-		case "fail":
-			return fail[Math.floor(Math.random() * fail.length)];
-		case "test":
-			return test[Math.floor(Math.random() * test.length)];
-		default:
-			return null;
-	}
-	
+export function getType(type, includeMP3 = false) {
+    const getRandomItem = list => {
+        const filteredList = includeMP3 ? list.filter(item => item.endsWith('.mp3')) : list;
+        return filteredList[Math.floor(Math.random() * filteredList.length)];
+    };
+
+    switch (type) {
+        case "success":
+            return getRandomItem(success);
+        case "wait":
+            return getRandomItem(wait);
+        case "fail":
+            return getRandomItem(fail);
+        case "test":
+            return getRandomItem(test);
+        default:
+            return null;
+    }
 }
