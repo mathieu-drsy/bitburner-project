@@ -1,6 +1,6 @@
 # Bitburner Project
 
-This project aims to automate all tasks through code.
+This project aims to automate all tasks of the bitburner project (https://github.com/bitburner-official/bitburner-src) through code. 
 
 **Attention:** The code is advanced and contains spoilers; please inform all potential users.
 
